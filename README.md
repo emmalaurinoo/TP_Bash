@@ -1,8 +1,8 @@
 # TP_Bash
 Integrantes:
-Basaldua Candela Agustina
-Laurino Emma Virginia
-Méndez Garcia Nicolle Valentina 
+Basaldua Candela Agustina,
+Laurino Emma Virginia,
+Méndez Garcia Nicolle Valentina, 
 
 Funcionamiento del programa: 
 
