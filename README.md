@@ -1,2 +1,5 @@
 # TP_Bash
-Trabajo practico bash:
+Integrantes:
+Basaldua Candela Agustina
+Laurino Emma Virginia
+Méndez Garcia Nicolle Valentina 
