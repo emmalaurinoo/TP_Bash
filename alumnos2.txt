@@ -1,0 +1,7 @@
+109876 Minho Lee mlee@fi.uba.ar 10
+123789 Jisung Han jhan@fi.uba.ar 7
+987654 Felix Yongbok fyongbok@fi.uba.ar 8
+876543 Taehyung Kim tkim@fi.uba.ar 9
+765432 Jungkook Jeon jjeon@fi.uba.ar 10
+654321 Namjoon Kim nkim2@fi.uba.ar 6
+543210 Hyunjin Hwang hhwang@fi.uba.ar 7

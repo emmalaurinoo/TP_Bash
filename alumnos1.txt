@@ -1,0 +1,10 @@
+102345 Juan Perez jperez@fi.uba.ar 6
+998877 Maria Gomez mgomez@fi.uba.ar 8
+887766 Pedro Ramirez pramirez@fi.uba.ar 5
+776655 Lucia Torres ltorres@fi.uba.ar 9
+665544 Carla Diaz cdiaz@fi.uba.ar 7
+554433 Franco Alvarez falvarez@fi.uba.ar 4
+443322 Juana Castro jcastro@fi.uba.ar 10
+332211 Mateo Silva msilva@fi.uba.ar 6
+221100 Sofia Rojas srojas@fi.uba.ar 8
+110099 Nicolas Kim nkim@fi.uba.ar 9
